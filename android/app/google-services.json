@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "459850274295",
+    "firebase_url": "https://mitapp-28b9e-default-rtdb.firebaseio.com",
+    "project_id": "mitapp-28b9e",
+    "storage_bucket": "mitapp-28b9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459850274295:android:3633b1ff7553799f368af2",
+        "android_client_info": {
+          "package_name": "com.example.mit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWAitK3B2rK3rdz5GQ9shh0fgIibWW9gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
