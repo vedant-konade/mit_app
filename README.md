@@ -1,4 +1,5 @@
-MIT App
+#MIT App
+
 Overview:
 
 MIT App is a comprehensive mobile application designed to streamline and enhance the academic experience for students and faculty at MIT-ADT University. The app centralizes key functionalities, including announcements, note-sharing, assignment submissions, and assessments, into one convenient platform. It aims to foster better communication, collaboration, and efficiency in academic workflows.
