@@ -1,9 +1,11 @@
 MIT App
-Overview
+Overview:
+
 MIT App is a comprehensive mobile application designed to streamline and enhance the academic experience for students and faculty at MIT-ADT University. The app centralizes key functionalities, including announcements, note-sharing, assignment submissions, and assessments, into one convenient platform. It aims to foster better communication, collaboration, and efficiency in academic workflows.
 
 Features
-Announcements
+Announcements:
+
 Faculty and college authorities can post important updates and notifications for students.
 
 Notes Sharing
@@ -24,7 +26,8 @@ Backend: Firebase (Authentication, Realtime Database)
 Database: SQLite
 Design: Figma (UI/UX Prototyping)
 
-Future Enhancements
+Future Enhancements:
+
 Push Notifications for real-time updates.
 Integration of Video Lectures for remote learning support.
 Chat Functionality to enable better communication between students and faculty.
